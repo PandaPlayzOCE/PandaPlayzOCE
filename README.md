@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PandaPlayzOCE
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on Game Devolopment
-- 📫 How to reach me finch.jacobjw@gmail.com
+- 🌱 I’m currently learning C++, JavaScript, Python, Html, and CSS.
 
 <!---
 PandaPlayzOCE/PandaPlayzOCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
